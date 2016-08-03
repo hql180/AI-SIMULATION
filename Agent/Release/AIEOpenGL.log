@@ -1,0 +1,5 @@
+﻿  Generating code
+c:\users\huy's beast reborn\documents\ai assignment\agent\mathlib\vector3.cpp(88): warning C4715: 'Vector3::normalise': not all control paths return a value
+  All 1364 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  AIEOpenGL.vcxproj -> C:\Users\Huy's Beast Reborn\Documents\AI ASSIGNMENT\Agent\AIEOpenGL.exe

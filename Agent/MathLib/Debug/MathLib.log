@@ -1,0 +1,17 @@
+﻿  Vector4.cpp
+c:\users\huy's beast reborn\documents\aie\agent\mathlib\vector4.cpp(62): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Vector3.cpp
+c:\users\huy's beast reborn\documents\aie\agent\mathlib\vector3.cpp(140): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\huy's beast reborn\documents\aie\agent\mathlib\vector3.cpp(142): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\huy's beast reborn\documents\aie\agent\mathlib\vector3.cpp(143): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Vector2.cpp
+c:\users\huy's beast reborn\documents\aie\agent\mathlib\vector2.cpp(63): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\huy's beast reborn\documents\aie\agent\mathlib\vector2.cpp(68): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Utility.cpp
+  Matrix4.cpp
+  Matrix3.cpp
+  Matrix2.cpp
+  MathLib.cpp
+  Generating Code...
+c:\users\huy's beast reborn\documents\aie\agent\mathlib\vector3.cpp(88): warning C4715: 'Vector3::normalise': not all control paths return a value
+  MathLib.vcxproj -> C:\Users\Huy's Beast Reborn\Documents\AIE\Agent\Debug\MathLib.lib
